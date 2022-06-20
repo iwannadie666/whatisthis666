@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60Ca2F0FC41c7A494c4c61d9A644377E123A7B88",
+  "SCAN_LINK": "https://etherscan.io/address/0x60ca2f0fc41c7a494c4c61d9a644377e123a7b88",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "I Want To Die",
+  "SYMBOL": "IWANNADIE",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 4666000000000000,
+  "DISPLAY_COST": 0.004666,
+  "GAS_LIMIT": 120996,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/iwanttodie",
+  "SHOW_BACKGROUND": true
+}
